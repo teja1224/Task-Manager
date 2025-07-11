@@ -1,0 +1,5 @@
+taskNumber,requestType_code,requestNumber,description,assignedTo,status_code,openedBy,assignedDate,closedDate,comments
+CTASK0012349,CNG,CNG0001,When creating an Amendment Request Agreement to change the Bill Type under the YVPB rule line the system is automatically changing the Periodic Billing Type b,Sai Pavan,O,Kiran,2025-07-01,,
+CTASK002,CNG,CNG002,Update dashboard,user2@example.com,IP,admin@example.com,2025-07-02,,Working on UI
+TASK003,INC,INC001,Test payment API,user3@example.com,OH,admin@example.com,2025-07-03,,Waiting for credentials
+TASK004,INC,INC002,Deploy to production,user4@example.com,C,admin@example.com,2025-06-30,2025-07-01,Deployed successfully
