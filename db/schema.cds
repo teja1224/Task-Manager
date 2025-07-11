@@ -28,7 +28,7 @@ entity StatusCodes : CodeList {
 
 entity RequestType : CodeList {
     key code : String enum {
-            ChangeRequestNumber   = 'CNG';
+            ChangeRequestNumber   = 'CHG';
             IncidentNumber = 'INC';
         };
 }

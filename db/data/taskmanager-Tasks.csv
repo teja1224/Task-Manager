@@ -1,5 +1,11 @@
 taskNumber,requestType_code,requestNumber,description,assignedTo,status_code,openedBy,assignedDate,closedDate,comments
-CTASK0012349,CNG,CNG0001,When creating an Amendment Request Agreement to change the Bill Type under the YVPB rule line the system is automatically changing the Periodic Billing Type b,Sai Pavan,O,Kiran,2025-07-01,,
-CTASK002,CNG,CNG002,Update dashboard,user2@example.com,IP,admin@example.com,2025-07-02,,Working on UI
-TASK003,INC,INC001,Test payment API,user3@example.com,OH,admin@example.com,2025-07-03,,Waiting for credentials
-TASK004,INC,INC002,Deploy to production,user4@example.com,C,admin@example.com,2025-06-30,2025-07-01,Deployed successfully
+CTASK0012349,CHG,CHG0036758,When creating an Amendment Request Agreement to change the Bill Type under the YVPB rule line the system is automatically changing the Periodic Billing Type b,Sai Pavan,C,Kiran,2025-07-01,,
+CTASK0012024,CHG,CHG0036942,"1) Add AP contact partner to be required and copy text field (text type Z001) similar to KSEA2) Add logic to send customer facing output (ZD03 and ZD13) to contact person mail id similar to KSEA.",Mohan,C,Pradeep Mali.ext,11/5/2024,5/13/2025,
+CTASK0012005,CHG,CHG0033617,sales order user exit - Backorder Automation Update with Promise Delivery Date,Mohan,C,Prashant Kshirsagar,10/24/2024,5/13/2025,
+CTASK0012010,CHG,CHG0036899,"FS attached Update promise delv date via update program run via batch job.",Mohan,C,Prashant Kshirsagar,10/28/2024,5/13/2025,
+CTASK0012435,CHG,CHG0036822,Validation logic to be changed for Repurchases under CP not to flip FY for all orders when SH has 3N/3H or the agreement proposes 3N/3H,Rakesh Gattu.ext,C,Aravind Gantavatharam,6/21/2025,6/21/2025,
+
+TASK0023340,INC,INC0137703,ZVA05 report not displaying the 'your reference' field,Mohan,C,Pradeep Mali.ext,4/10/2025,4/24/2025,
+TASK0023345,INC,INC0137881,Rental and Hire invoices not adding taxes to the total on the output form,Mohan,C,Prashant Kshirsagar,4/11/2025,4/15/2025,
+TASK0023376,INC,INC0140693,ZVA05 Dump in PRD for a user,Mohan,C,Pradeep Mali.ext,5/13/2025,5/22/2025,
+TASK0023394,INC,INC0142380,ZSDU_PROMDEL2 overrides the general 30 day rule if greater than 30 days,Mohan,C,Prashant Kshirsagar,5/27/2025,5/30/2025,			
